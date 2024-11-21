@@ -1,0 +1,12 @@
+{
+  "name": "try-github-pages",
+  "version": "1.0.0",
+  "description": "Welcome to the official documentation for the **Mystic Forest Game**. This game takes players on an adventurous journey through an enchanted forest full of magical creatures, hidden paths, and mysterious puzzles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
